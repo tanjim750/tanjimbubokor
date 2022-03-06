@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimabubokor&langs_count=3"/>
+<img src="https://github.com/tanjimabubokor/tanjimabubokor/blob/main/skill.html"/>

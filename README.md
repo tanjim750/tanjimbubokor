@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjimabubokor&langs_count=1,2,5"/>
+## Skill
+<img src="https://github.com/tanjimabubokor/tanjimabubokor/blob/main/Screenshot%20from%202022-03-07%2006-49-33.png"/>
 
